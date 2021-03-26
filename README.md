@@ -15,7 +15,9 @@ during the internship period at Novare: Software Development Academy | KTH, 9th 
 
 
 
+## Usage
 
+![Example1](https://github.com/Nouribaher/Website-Quote-Small-Website/blob/main/Desk.png)
 
 
 ## Support
