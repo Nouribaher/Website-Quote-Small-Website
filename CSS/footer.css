@@ -1,0 +1,19 @@
+.footer .contact-links{
+    background-color:white;
+    padding: 0;
+    margin: 0; 
+    text-align: left;
+}
+
+.footer .contact-links a {
+    color:black;
+    text-transform: uppercase;
+    padding:0 10px ;
+    font-weight: bold;
+   
+    
+}
+
+.title{
+    
+}

@@ -1,0 +1,33 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+
+.form{
+    margin-top: 60000px ;
+    transition: all 10s ease-in-out;
+    border: springgreen;
+}
+.form-control{
+    width: 400px;
+    background: transparent;
+    border:solid;
+    outline: none;
+    font-size: 16px;
+    margin-bottom:16px ;
+    color: slategray;
+}
+input{
+    height: 50px;
+}
+.submit{
+    background: rgb(29, 139, 97);
+    color: indigo ;
+    font-size: 20px;
+    font-weight: bold;
+}
+.submit:hover{
+    background-color: lightslategrey;
+    cursor: pointer;
+}

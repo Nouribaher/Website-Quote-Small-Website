@@ -1,0 +1,33 @@
+.headNav{
+    background-color:white;
+    padding: 0;
+    margin: 0;
+   
+
+}
+
+
+.logo{
+    text-align: center;
+    margin-bottom: 0pc;
+    
+}
+
+.main-menu  {
+    text-align: center;
+    margin-top: 0pc;
+}
+
+.main-menu li {
+    display:inline-block;
+    
+
+}
+.main-menu li a {
+    color:black;
+    font-size: 20px;
+    text-transform: uppercase;
+    padding:0 13px ;
+    font-weight: bold;
+
+}

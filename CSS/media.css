@@ -1,0 +1,35 @@
+body {
+    color:black;
+    font-size: 12px
+  }
+  
+  /* On mobile: Samsung Galaxy that is after 400px or bigger, set the background colour to cadet blue. */
+  @media  (min-width: 400px) {
+    body {
+      color:cadetblue;
+      font-size: 15px;
+    }
+  }
+  
+  /* On Tablet that is after 550px or bigger, set the background colour to  blue */
+ @media only screen and (min-width: 550px) {
+    body {
+            color:blue;
+            font-size: 18px;
+    }
+}
+    /*On Labtop and Desktop that is after 750px or bigger, set the background colour to  crimson */
+@media only screen and (min-width: 750px) {
+    body {
+        color:crimson;
+        font-size: 20px;
+    }
+ }
+  /*On a big Desktop that is after 1600px or bigger, set the background colour to  darkcyan */
+@media only screen and (min-width: 1600px) {
+    body {
+        color:darkcyan;
+        font-size: 24px;
+    }
+
+}
